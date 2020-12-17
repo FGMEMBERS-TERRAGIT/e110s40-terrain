@@ -1,0 +1,7 @@
+OBJECT_BASE 4853384.btg
+OBJECT YBLV.btg
+OBJECT_SHARED Models/Airport/windsock.xml 116.015775 -31.792034 20.5 0.00
+OBJECT YJMO.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 116.015279 -31.865483 18.7 0.00
+OBJECT YTVR.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 116.007808 -31.764491 -9999.0 0.00
